@@ -68,7 +68,6 @@
   const serviceHandler = (function () {
     const PROJECT_ID = "11726",
           BASE_URL = "https://gitlab.eng.vmware.com/api/v4",
-          TOKEN = "7NdweGUJ3whspyUoZ4EM";
 
     const TAG_URL = `${BASE_URL}/projects/${PROJECT_ID}/repository/tags`,
           COMMIT_URL = `${BASE_URL}/projects/${PROJECT_ID}/repository/commits`;
