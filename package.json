@@ -37,6 +37,6 @@
     "webpack-dev-middleware": "1.6.1"
   },
   "dependencies": {
-    "express": "4.15.2"
+    "express": "4.17.3"
   }
 }
